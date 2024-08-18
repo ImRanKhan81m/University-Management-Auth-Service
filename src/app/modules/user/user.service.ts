@@ -41,6 +41,8 @@ const createStudent = async (
     session.startTransaction();
     // generate student id
     const id = await generateStudentId(academicsemester as IAcademicSemester);
+
+console.log(id, '========');
     // set custom id into both  student & user
     user.id = id;
     student.id = id;
