@@ -9,6 +9,16 @@
             "date": 1723899704274,
             "name": "F:\\ANextLevelCourse\\University-Management\\university-management-auth-service\\logs\\winston\\errors\\phu-2024-17-08-19-error.log",
             "hash": "c62f1459bf7704f48a08902c823eb7d5af6994b1dd7c986d18fa6de4ac1c24d2"
+        },
+        {
+            "date": 1723956900111,
+            "name": "F:\\ANextLevelCourse\\University-Management\\university-management-auth-service\\logs\\winston\\errors\\phu-2024-18-08-10-error.log",
+            "hash": "0566bf538ae76b4099e16b6cfa0acb9b6d68ce112f13d4da22c4f1ccf453e641"
+        },
+        {
+            "date": 1723958695276,
+            "name": "F:\\ANextLevelCourse\\University-Management\\university-management-auth-service\\logs\\winston\\errors\\phu-2024-18-08-11-error.log",
+            "hash": "2e94184217177bb1afc3dac2bfccfb9c115d8d546a2e9c136e53b1507f014bf7"
         }
     ],
     "hashType": "sha256"
