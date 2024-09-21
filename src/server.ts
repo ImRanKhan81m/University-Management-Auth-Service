@@ -10,7 +10,7 @@ import { RedisClient } from './shared/redis';
 process.on('uncaughtException', error => {
   errorlogger.error(error);
   process.exit(1);
-});
+}); 
 
 let server: Server;
  
