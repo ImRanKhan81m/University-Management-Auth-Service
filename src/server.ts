@@ -12,7 +12,7 @@ process.on('uncaughtException', error => {
   process.exit(1);
 }); 
 
-let server: Server;
+let server: Server; 
  
 async function bootstrap() {
   try {
