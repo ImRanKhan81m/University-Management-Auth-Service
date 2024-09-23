@@ -13,7 +13,7 @@ process.on('uncaughtException', error => {
 }); 
 
 let server: Server; 
- 
+  
 async function bootstrap() {
   try {
     await RedisClient.connect().then(() => {
